@@ -4,6 +4,7 @@
     "lerna": "^4.0.0"
   },
   "scripts": {
-    "create": "lerna create $1 -y"
+    "create": "lerna create $1 -y",
+    "version": "lerna version --yes"
   }
 }
