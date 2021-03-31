@@ -9,7 +9,7 @@
       "message": "chore(release): publish %s [skip ci]"
     }
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "ignoreChanges": [
     "**/changelog.md",
     "**/CHANGELOG.md",
