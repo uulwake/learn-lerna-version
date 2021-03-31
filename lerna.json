@@ -1,5 +1,7 @@
 {
-  "packages": ["packages/*"],
+  "packages": [
+    "packages/*"
+  ],
   "command": {
     "version": {
       "allowBranch": "main",
@@ -7,7 +9,7 @@
       "message": "chore(release): publish %s [skip ci]"
     }
   },
-  "version": "0.0.0",
+  "version": "0.1.0",
   "ignoreChanges": [
     "**/changelog.md",
     "**/CHANGELOG.md",
