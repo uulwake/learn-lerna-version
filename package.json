@@ -6,6 +6,7 @@
   },
   "scripts": {
     "create": "lerna create $1 -y",
-    "version": "lerna version --yes --no-changelog"
+    "version": "lerna version --yes --no-changelog",
+    "generate-changelog": "generate changelog $1"
   }
 }
