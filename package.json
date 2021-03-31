@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "scripts": {
+    "create": "lerna create $1 -y"
+  }
+}
